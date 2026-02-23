@@ -7,7 +7,7 @@ End-to-end data analytics project analyzing U.S. housing market trends, median h
 ---
 
 ## 📊 Dashboard Preview
-<img src="dashboard/dashboard_preview.png" width="800">
+<img src="Us Housing project.png" width="800">
 
 ---
 
