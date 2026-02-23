@@ -12,3 +12,8 @@ data/
 
 dashboard/
  └── us_housing_dashboard.twb
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview](/Us Housing project.png)
+
