@@ -61,3 +61,5 @@ dashboard/
 3. Execute SQL scripts in order
 4. Open Tableau workbook and connect to database
 
+ created by Kush Patel
+
