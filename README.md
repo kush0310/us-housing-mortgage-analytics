@@ -6,7 +6,6 @@ sql/
  ├── 01_schema.sql           # Create database & tables
  ├── 02_staging.sql          # Raw data ingestion
  ├── 03_transform_load.sql   # Data cleaning & transformation
- ├── 04_quality_checks.sql   # Validation checks
 
 data/
  └── Result1.csv
